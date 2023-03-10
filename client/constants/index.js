@@ -45,4 +45,4 @@ export const surpriseMePrompts = [
     'Synthwave aeroplane',
     'A man wanders through the rainy streets of Tokyo, with bright neon signs, 50mm',
     'A Space Shuttle flying above Cape Town, digital art',
-  ];
+  ]; 
